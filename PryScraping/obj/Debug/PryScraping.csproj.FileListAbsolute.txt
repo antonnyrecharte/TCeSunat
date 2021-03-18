@@ -1,0 +1,13 @@
+C:\Users\Anton\source\repos\PryScraping\PryScraping\bin\Debug\PryScraping.exe.config
+C:\Users\Anton\source\repos\PryScraping\PryScraping\bin\Debug\PryScraping.exe
+C:\Users\Anton\source\repos\PryScraping\PryScraping\bin\Debug\PryScraping.pdb
+C:\Users\Anton\source\repos\PryScraping\PryScraping\bin\Debug\WebDriver.dll
+C:\Users\Anton\source\repos\PryScraping\PryScraping\bin\Debug\WebDriver.xml
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.Form1.resources
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.Properties.Resources.resources
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.csproj.CopyComplete
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.exe
+C:\Users\Anton\source\repos\PryScraping\PryScraping\obj\Debug\PryScraping.pdb
